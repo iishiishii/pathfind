@@ -1,0 +1,6 @@
+.grid {
+  margin: 150px 40px 0 80px;
+  display: grid;
+  position: relative;
+  grid-template-columns: repeat(65, 25px);
+}
